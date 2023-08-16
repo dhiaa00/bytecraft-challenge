@@ -856,6 +856,7 @@ header button:first-of-type:hover + button:last-of-type {
   border: none;
   padding: 10px;
   flex: 1;
+  max-width: 80%;
 }
 .inputs button {
   padding: 25px 40px;
